@@ -1,0 +1,2 @@
+# Kings and Queens
+(also known as Cows and Bulls) is a code-breaking mind  game for two or more players. The game is played in turns by two opponents who aim to decipher the other's secret code by trial and error.
